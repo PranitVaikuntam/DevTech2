@@ -1,5 +1,5 @@
 import java.sql.*;
-class DevTech2Part1{
+class DT2Part1{
 	public static void main(String args[]){
 		try{
 			Connection dbCxn=DriverManager.getConnection(
